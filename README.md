@@ -1,6 +1,12 @@
 # 《深度学习：一起玩转TensorLayer》资源链接
 
-欢迎补充，谢谢～
+<a href="http://www.broadview.com.cn/book/5059">
+<div align="center">
+	<img src="images/book_cover.jpeg" width="50%" height="40%"/>
+</div>
+</a>
+
+欢迎补充，感谢！我们也希望更多新的作者加入，请联系 tensorlayer@gmail.com
 
 # 网站资源
 

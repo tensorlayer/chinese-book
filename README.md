@@ -6,7 +6,7 @@
 </div>
 </a>
 
-欢迎补充，感谢！我们也希望更多新的作者加入，请联系 tensorlayer@gmail.com
+欢迎补充，感谢！我们也希望更多新的作者加入，请加入[微信群](https://github.com/shorxp/tensorlayer-chinese/blob/master/docs/wechat_group.md)讨论
 
 # 网站资源
 

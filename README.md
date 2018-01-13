@@ -2,7 +2,7 @@
 
 <a href="http://www.broadview.com.cn/book/5059">
 <div align="center">
-	<img src="images/book_cover.jpeg" width="50%" height="40%"/>
+	<img src="images/tl_book_cover.jpeg" width="50%" height="40%"/>
 </div>
 </a>
 

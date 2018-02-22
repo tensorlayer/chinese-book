@@ -101,6 +101,7 @@
 * [代码－SRGAN](https://github.com/zsdonghao/SRGAN)
 * [Deconvolution and Checkerboard Artifacts - Augustus Odena et al](http://distill.pub/2016/deconv-checkerboard/)
 * [DIV2K数据集](http://www.vision.ee.ethz.ch/ntire17)
+* [DIV2K上训练的模型](https://github.com/tensorlayer/srgan/releases/tag/1.2.0)
 
 ### 第十四章：实例五
 * [代码－文本反垃圾](https://github.com/pakrchen/text-antispam)
